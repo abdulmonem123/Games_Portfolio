@@ -5,6 +5,7 @@ These are my best game so far
 <p align="center">
 
 <img src="https://user-images.githubusercontent.com/68784974/172478930-8956ff35-536b-4afe-9b08-906529bd18d2.png" width="1000" height="500"/>
+<img src="https://user-images.githubusercontent.com/68784974/172478930-8956ff35-536b-4afe-9b08-906529bd18d2.png" width="1000" height="500"/>
 </p>
 
 One day a boy named "Dexter" was playing cricket with his friends and one of his friend hit the ball towards the mystery forest.Dexter went to the mystery forest for the search of ball and Suddenly he saw a strange Mysterious Object that disappear instantly.Dexter follow the Mysterious thing,Then he suddenly finds the Mysterious thing and Mysterious thing told Dexter that to find his Timeline watch.
