@@ -29,3 +29,19 @@ Go on an Adventure Escape to have a fun filled experience! In an Adventure town 
 Start your incredible mysterious Adventure game and become the Timeline watch user!
 
 Contact us on zenhex799@gmail.com if you need any help!
+
+# 2 Power Orbs Epic Adventure Time
+
+
+
+Move into the arena of orbs balls and showcase your challenging skills to solve the levels!
+
+Power orbs is an exciting adventurer game in which you maneuver an orb to dodge obstacles and complete challenges. There are multiple levels waiting for you to explore. Use tremendous powers of orb ball to take your gameplay style to the next level. You can jump, run, float and shoot enemies with simple widgets.
+
+Shoot and kill enemies to collect coins and fill your treasure in the upcoming levels. However, there are two main zones from which each comes with a specific number of challenges. This orbs adventure game has fascinating gameplay with a dynamic interface and high-resolution graphics. An army of enemies spawned by other dangerous monsters you will have to face in every boss level.
+
+There are dual graphics options that give you optimized performance and a better experience. However, this is one of the best orbs games for kids and adults. Upgrade your clash orbs with passive abilities like number of jumps, increase in speed, shooting speed and many more!
+
+Enjoy the clash of orbs and beat the pace of enemies to win rewards!
+
+
