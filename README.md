@@ -4,7 +4,8 @@ These are my best game so far
 # 1 Epic Adventure Time Game
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/68784974/172478930-8956ff35-536b-4afe-9b08-906529bd18d2.png&nbsp" width="1000" height="500"/>
+<img src="https://user-images.githubusercontent.com/68784974/172478930-8956ff35-536b-4afe-9b08-906529bd18d2.png" width="1000" height="500"/>
+  <br>
 <img src="https://user-images.githubusercontent.com/68784974/172478930-8956ff35-536b-4afe-9b08-906529bd18d2.png" width="1000" height="500"/>
 </p>
 
