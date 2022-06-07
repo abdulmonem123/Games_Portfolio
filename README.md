@@ -5,7 +5,8 @@ These are my best game so far
 <p align="center">
 
 <img src="https://user-images.githubusercontent.com/68784974/172478930-8956ff35-536b-4afe-9b08-906529bd18d2.png" width="1000" height="500"/>
-
+<img src="https://user-images.githubusercontent.com/68784974/172481686-1135f350-d313-429a-a8dd-9ff822bea3b9.png" width="1000" height="500"/>
+<img src="https://user-images.githubusercontent.com/68784974/172481668-d2f067b5-7f03-4c6c-9a5b-2decd5c4fb29.png" width="1000" height="500"/>
 <img src="https://user-images.githubusercontent.com/68784974/172480482-d06996e2-860b-4d61-ae2d-ee480654adbc.png" width="1000" height="500"/>
 </p>
 
