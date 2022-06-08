@@ -57,11 +57,31 @@ Enjoy the clash of orbs and beat the pace of enemies to win rewards!
 # 3. Touch the ball Hyper Casual
 <p align="center">
 <img src="https://user-images.githubusercontent.com/68784974/172643741-225c84d0-4cd8-473f-89d6-7d520339c902.png" width="300" height="500"/>
-<img src="https://user-images.githubusercontent.com/68784974/172643762-f6503d85-61ce-4680-85e5-f36e72670e66.png" width="500" height="500"/>
+<img src="https://user-images.githubusercontent.com/68784974/172643762-f6503d85-61ce-4680-85e5-f36e72670e66.png" width="300" height="500"/>
 </p>
-<img src="https://user-images.githubusercontent.com/68784974/172643772-3b24f8c4-e5e8-477a-b73c-a5fc73370de9.png" width="500" height="500"/>
-<img src="https://user-images.githubusercontent.com/68784974/172643782-9ec21be2-8133-4eb2-8a5d-4e47d4f14a30.png" width="500" height="500"/>
-<img src="https://user-images.githubusercontent.com/68784974/172643791-ffbf9ca7-b824-4176-98c7-2f5f37817da4.png" width="500" height="500"/>
-<img src="https://user-images.githubusercontent.com/68784974/172643795-3b60969e-9f15-434d-8d82-c37c86cb00ad.png" width="500" height="500"/>
-<img src="https://user-images.githubusercontent.com/68784974/172643802-b4d9baf6-0b05-4da5-a0b5-2b89b2601eb5.png" width="500" height="500"/>
+<p>
+<img src="https://user-images.githubusercontent.com/68784974/172643772-3b24f8c4-e5e8-477a-b73c-a5fc73370de9.png" width="300" height="500"/>
+<img src="https://user-images.githubusercontent.com/68784974/172643782-9ec21be2-8133-4eb2-8a5d-4e47d4f14a30.png" width="300" height="500"/>
 </p>
+<p>
+<img src="https://user-images.githubusercontent.com/68784974/172643791-ffbf9ca7-b824-4176-98c7-2f5f37817da4.png" width="300" height="500"/>
+<img src="https://user-images.githubusercontent.com/68784974/172643795-3b60969e-9f15-434d-8d82-c37c86cb00ad.png" width="300" height="500"/>
+</p>
+<img src="https://user-images.githubusercontent.com/68784974/172643802-b4d9baf6-0b05-4da5-a0b5-2b89b2601eb5.png" width="300" height="500"/>
+
+# Description
+
+Touch the ball is an amazing time killer Hyper Casual Game for people that wants to play in free time.
+
+You will definitely LOVE:
+- The ball moving action is so strong and impressive
+- Amazing Effects of unique ball
+- Beautiful Background Free to play.
+- Simple one-finger control 👆
+- Best time killer
+
+Which direction you will move ?! Touch the ball! is ready to challenge you G'Luck!
+
+How to play Touch the ball?
+(1) Tap on the screen to juggle the ball side to side. See how long you can go without hitting the spikes
+(2) Tap on the mobile screen and the ball will move accordingly by avoiding the obstacles get the maximum score you can get.
