@@ -42,6 +42,8 @@ Contact us on zenhex799@gmail.com if you need any help!
 <img src="https://user-images.githubusercontent.com/68784974/172483061-1c26c84d-b577-42c7-99d7-62da468c3af9.png" width="1000" height="500"/>
 <img src="https://user-images.githubusercontent.com/68784974/172483065-a1304e13-12b6-4b70-84ba-8f3b0f54b46e.png" width="1000" height="500"/>
 
+# Description
+
 Move into the arena of orbs balls and showcase your challenging skills to solve the levels!
 
 Power orbs is an exciting adventurer game in which you maneuver an orb to dodge obstacles and complete challenges. There are multiple levels waiting for you to explore. Use tremendous powers of orb ball to take your gameplay style to the next level. You can jump, run, float and shoot enemies with simple widgets.
